@@ -1,0 +1,9 @@
+{
+  "name": "muse-for-uzu",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-first scenario design workspace for UZU-oriented mystery games",
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
